@@ -4,3 +4,4 @@ test
 commit test
 test pull example
 test push example
+test merge
