@@ -5,3 +5,4 @@ commit test
 test pull example
 test push example
 new branch created
+changes in new branch
