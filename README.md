@@ -4,4 +4,9 @@ test
 commit test
 test pull example
 test push example
-test pull example 2
+new branch created
+changes in new branch
+test merge
+problem commit
+problem commit2
+problem commit to mai
